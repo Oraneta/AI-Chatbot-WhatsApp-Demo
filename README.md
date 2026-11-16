@@ -17,41 +17,92 @@
 
 ## Prueba nuestro chatbot de inteligencia artificial
 
-Interactúa con un agente conversacional desarrollado por Oraneta, diseñado para responder preguntas utilizando inteligencia artificial.
+Descubre cómo Oraneta utiliza información de tu empresa para responder preguntas de clientes mediante inteligencia artificial.
 
-[![PROBAR DEMO](https://img.shields.io/badge/PROBAR_DEMO-ABRIR_APLICACIÓN-6633FF?style=for-the-badge)](https://05272026-oraneta-demo-wa-e3hhbvh4bme6chah.mexicocentral-01.azurewebsites.net)
-
-**Aplicación alojada en Microsoft Azure App Service**
+**La demo de WhatsApp requiere acceso al número habilitado para la demostración.**
 
 </div>
 
 ---
 
-## ¿Qué puedes probar?
+## Español
 
-- Realizar preguntas y recibir respuestas generadas mediante inteligencia artificial.
-- Experimentar una conversación con un agente inteligente.
-- Probar las capacidades del asistente en español, inglés y portugués.
+### Cómo ejecutar la demo en WhatsApp
 
-## ¿Cómo funcionaría en WhatsApp?
+1. Abre WhatsApp e inicia una conversación con el número habilitado por Oraneta.
+2. Envía exactamente este mensaje:
 
-Esta demostración permite experimentar las capacidades conversacionales del agente mediante una aplicación web.
+   `Oraneta Demo Español`
 
-**Importante:** La demo actual no está conectada directamente con WhatsApp.
+3. Recibirás la confirmación de activación de tu demo gratuita.
+4. Envía un archivo **PDF, DOC, DOCX o TXT** con información de tu empresa: productos, servicios, precios, horarios o preguntas frecuentes.
+5. Espera el mensaje que confirme que tu demo está lista.
+6. Realiza preguntas mediante **mensajes de texto o audio**, simulando conversaciones con tus clientes.
 
-Para implementar una experiencia equivalente en WhatsApp se requiere:
+**Duración:** 45 minutos desde la activación.
 
-1. Configurar el acceso a WhatsApp Business Platform.
-2. Conectar los mensajes entrantes con el servicio del agente de IA.
-3. Procesar las consultas mediante el agente inteligente.
-4. Enviar las respuestas generadas al usuario a través de WhatsApp.
+Al finalizar, el sistema ejecuta la eliminación de los archivos y la información de la sesión.
 
-## Tecnología
+---
 
-- Inteligencia artificial conversacional.
-- Microsoft Azure App Service.
-- Arquitectura adaptable a diferentes canales de comunicación.
-- Soporte de demostración en español, inglés y portugués, con posibilidad de adaptación a otros idiomas.
+## English
+
+### How to run the WhatsApp demo
+
+1. Open WhatsApp and start a conversation with the demo-enabled number provided by Oraneta.
+2. Send this exact message:
+
+   `Oraneta Demo English`
+
+3. You will receive confirmation that your free demo has been activated.
+4. Upload a **PDF, DOC, DOCX or TXT** document containing business information such as products, services, pricing, opening hours or FAQs.
+5. Wait until the assistant confirms that your demo is ready.
+6. Ask questions using **text or voice messages**, simulating real customer interactions.
+
+**Duration:** 45 minutes from activation.
+
+When the session ends, the system initiates deletion of the session information and uploaded files.
+
+---
+
+## Português
+
+### Como executar a demonstração no WhatsApp
+
+1. Abra o WhatsApp e inicie uma conversa com o número habilitado pela Oraneta para a demonstração.
+2. Envie exatamente esta mensagem:
+
+   `Oraneta Demo Portugues`
+
+3. Você receberá uma confirmação de ativação da demonstração gratuita.
+4. Envie um documento **PDF, DOC, DOCX ou TXT** contendo informações da sua empresa, como produtos, serviços, preços, horários ou perguntas frequentes.
+5. Aguarde a confirmação de que sua demonstração está pronta.
+6. Faça perguntas por **mensagens de texto ou áudio**, simulando conversas com seus clientes.
+
+**Duração:** 45 minutos a partir da ativação.
+
+Ao final, o sistema inicia a exclusão dos arquivos e das informações da sessão.
+
+---
+
+## Tecnología | Technology | Tecnologia
+
+- Inteligencia artificial conversacional / Conversational AI
+- OpenAI API
+- OpenAI Vector Stores y File Search
+- Transcripción de mensajes de audio
+- WhatsApp Business Platform
+- Microsoft Azure
+- Redis para gestión de sesiones
+- Soporte multilingüe: español, inglés y portugués
+
+---
+
+## Demostración web | Web demo | Demonstração web
+
+Oraneta también contempla una experiencia de chatbot mediante una aplicación web.
+
+Esta modalidad se documentará por separado en el proyecto **AI-Chatbot-Web-Demo**, para distinguirla de la demostración por WhatsApp.
 
 ---
 
