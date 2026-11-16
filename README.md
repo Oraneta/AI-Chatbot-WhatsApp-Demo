@@ -31,6 +31,8 @@ Descubre cómo Oraneta utiliza información de tu empresa para responder pregunt
 
 **Los botones abren WhatsApp con el mensaje de activación preparado. Solo debes enviarlo.**
 
+*Para abrir WhatsApp en otra pestaña y mantener GitHub abierto, utiliza ⌘ + clic en Mac o Ctrl + clic en Windows.*
+
 </div>
 
 ---
@@ -63,6 +65,8 @@ Descubre cómo Oraneta utiliza información de tu empresa para responder pregunt
 ### Iniciar demostración
 
 [![INICIAR DEMO](https://img.shields.io/badge/INICIAR_DEMO-ABRIR_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5217224653156?text=Oraneta%20Demo%20Espa%C3%B1ol)
+
+*Para abrir en otra pestaña: ⌘ + clic (Mac) o Ctrl + clic (Windows).*
 
 ### ¿Qué puedes probar?
 
@@ -108,6 +112,8 @@ Descubre cómo Oraneta utiliza información de tu empresa para responder pregunt
 
 [![START DEMO](https://img.shields.io/badge/START_DEMO-OPEN_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5217224653156?text=Oraneta%20Demo%20English)
 
+*To open WhatsApp in a new tab: ⌘ + click (Mac) or Ctrl + click (Windows).*
+
 ### What can you test?
 
 - AI-generated answers.
@@ -152,6 +158,8 @@ Descubre cómo Oraneta utiliza información de tu empresa para responder pregunt
 
 [![INICIAR DEMO](https://img.shields.io/badge/INICIAR_DEMO-ABRIR_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5217224653156?text=Oraneta%20Demo%20Portugues)
 
+*Para abrir o WhatsApp em outra aba: ⌘ + clique (Mac) ou Ctrl + clique (Windows).*
+
 ### O que você pode testar?
 
 - Respostas geradas por inteligência artificial.
@@ -172,7 +180,7 @@ Descubre cómo Oraneta utiliza información de tu empresa para responder pregunt
 - Inteligencia artificial conversacional / Conversational AI
 - OpenAI API
 - OpenAI Vector Stores y File Search
-- Procesamiento y transcripción de mensajes de audio
+- Procesamiento y transcripción de mensagens de áudio
 - WhatsApp Business Platform
 - Microsoft Azure App Service
 - Redis para gestión de sesiones
